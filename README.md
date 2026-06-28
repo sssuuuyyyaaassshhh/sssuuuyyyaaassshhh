@@ -8,14 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;React+%7C+Python+%7C+Swift+Developer;Figma+%7C+Photoshop+%7C+Illustrator+Pro;Building+beautiful+things" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=sssuuuyyyaaassshhh&label=Profile+Views&color=FFD700&style=flat-square&labelColor=1C1B1F" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/sssuuuyyyaaassshhh?tab=followers">
-  <img src="https://img.shields.io/github/followers/sssuuuyyyaaassshhh?label=Followers&style=flat-square&color=FFD700&labelColor=1C1B1F" alt="Followers"/>
-</a>
 
 </div>
 
