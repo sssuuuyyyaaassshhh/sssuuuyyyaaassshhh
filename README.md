@@ -3,11 +3,6 @@
 <!-- Animated Header — warm gold waves -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1C1B1F,FFD700&height=180&section=header&text=Hey,%20I'm%20Suyash&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Creative%20Builder&descAlignY=55&descSize=16&descColor=ffffff" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://github.com/sssuuuyyyaaassshhh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;React+%7C+Python+%7C+Swift+Developer;Figma+%7C+Photoshop+%7C+Illustrator+Pro;Building+beautiful+things" alt="Typing SVG" />
-</a>
-
 
 </div>
 
