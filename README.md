@@ -10,7 +10,7 @@
 
 <br/>
 
-<!-- Profile Views + Social Badges -->
+<!-- Profile Views + Followers -->
 <img src="https://komarev.com/ghpvc/?username=sssuuuyyyaaassshhh&label=Profile%20Views&color=6E40C9&style=flat-square" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/sssuuuyyyaaassshhh?tab=followers">
@@ -34,32 +34,67 @@ fun_fact:   "I design in Figma before I write a single line of code 🎨"
 
 ---
 
-## 🎨 Design Stack
+## 🎨 Design Arsenal
 
 <div align="center">
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+<img src="https://skillicons.dev/icons?i=figma,ps,illustrator&theme=dark&perline=3" alt="Design Tools" />
 
 </div>
 
-## 💻 Dev Stack
+<br/>
+
+<!-- Design skill progress bars -->
+**Figma** — Prototyping & Design Systems
+```
+████████████████████ 95%
+```
+**Photoshop** — Photo Manipulation & Compositing
+```
+██████████████████░░ 88%
+```
+**Illustrator** — Vector Art & Branding
+```
+█████████████████░░░ 85%
+```
+
+---
+
+## 💻 Dev Arsenal
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,python,swift,xcode,js,html,css,nodejs,git,vscode&theme=dark&perline=5" alt="Dev Tools" />
 
 </div>
+
+<br/>
+
+<!-- Dev skill progress bars -->
+**React** — Component Architecture & State Management
+```
+███████████████████░ 92%
+```
+**Python** — Scripting, APIs & Automation
+```
+██████████████████░░ 88%
+```
+**Swift / Xcode** — Native iOS Development
+```
+████████████████░░░░ 80%
+```
+**JavaScript** — Full Stack & Browser APIs
+```
+███████████████████░ 90%
+```
+**HTML & CSS** — Semantic Markup & Responsive Design
+```
+████████████████████ 95%
+```
+**Node.js** — Server-side & REST APIs
+```
+███████████████░░░░░ 78%
+```
 
 ---
 
@@ -122,6 +157,20 @@ fun_fact:   "I design in Figma before I write a single line of code 🎨"
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sssuuuyyyaaassshhh&theme=tokyo-night&bg_color=0d1117&color=6E40C9&line=6E40C9&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sssuuuyyyaaassshhh/sssuuuyyyaaassshhh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sssuuuyyyaaassshhh/sssuuuyyyaaassshhh/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/sssuuuyyyaaassshhh/sssuuuyyyaaassshhh/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
